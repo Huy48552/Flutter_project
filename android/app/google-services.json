@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116665640545",
+    "project_id": "project-push-notificatio-bc40b",
+    "storage_bucket": "project-push-notificatio-bc40b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116665640545:android:8f386e77c2722e44c36c20",
+        "android_client_info": {
+          "package_name": "huy.it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116665640545-p0chh6sdn7jurd5hvvrnct7ijv84kcor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBZAOy_p_iw0lP_28SDmu1j6oHBOFt9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116665640545-p0chh6sdn7jurd5hvvrnct7ijv84kcor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
